@@ -11,7 +11,6 @@
 - **<sub><img width="18" height="18" src="https://www.github.com/microsoft/fluentui-emoji/raw/refs/heads/main/assets/Keyboard/Color/keyboard_color.svg"/></sub> Learning— (C, Python, TypeScript) Interested— (Assembly, Lua, Rust, SQL)**
 - **<sub><img width="18" height="18" src="https://www.github.com/microsoft/fluentui-emoji/raw/refs/heads/main/assets/Telescope/Color/telescope_color.svg"/></sub> Exploring Internet, Listening to Music, Watching Anime in free time.**
 - **<sub><img width="18" height="18" src="https://www.github.com/microsoft/fluentui-emoji/raw/refs/heads/main/assets/Boomerang/Color/boomerang_color.svg"/></sub> Understanding the real purpose of life with a successful career.**
-- **<sub><img width="18" height="18" src="https://www.github.com/microsoft/fluentui-emoji/raw/refs/heads/main/assets/Knot/Color/knot_color.svg"/></sub> View profile: <a href="https://www.pinterest.com/Enteown"><sub><sub><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white"/></sub></sub></a>**
 
 ### __Important rules:__
 > [!WARNING]

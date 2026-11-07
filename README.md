@@ -32,4 +32,4 @@
 ___
 
 <p align="center">Yo, <b>take care</b> buddy <sub><img width="18" height="18" src="https://www.slackmojis.com/emojis/833-handshake/download"/></sub> <i>bye</i>!</p>
-<p align="center"><img alt="No doubt, it’s in front of us." src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/> <img alt="Might be outdated, consider ignoring." src="https://img.shields.io/badge/Profile_Edited-Tue,_%20Sep_8-000?style=social"/></p>
+<p align="center"><img alt="No doubt, it’s in front of us." src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/> <img alt="Might be outdated, consider ignoring." src="https://img.shields.io/badge/Profile_Edited-Sat,_%20Nov_7-000?style=social"/></p>
